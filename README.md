@@ -1,3 +1,9 @@
+## gaussian-evm
+
+`GaussianCDF.sol` is under `src/`. Matches [errcw/gaussian](https://github.com/errcw/gaussian/blob/master/lib/gaussian.js) within 1e-8 error (except on some cases where this library is closer to the ground truth). 
+
+-------
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
